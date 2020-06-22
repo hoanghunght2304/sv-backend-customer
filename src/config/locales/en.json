@@ -1,0 +1,20 @@
+{
+	"Địa chỉ email này đã tồn tại.!": "Địa chỉ email này đã tồn tại.!",
+	"E11000 duplicate key error collection: sv-dunnio-customer-beta.customers index: phone_1 dup key: { phone: \"0986512224\" }": "E11000 duplicate key error collection: sv-dunnio-customer-beta.customers index: phone_1 dup key: { phone: \"0986512224\" }",
+	"Số điện thoại này đã tồn tại.!": "Số điện thoại này đã tồn tại.!",
+	"E11000 duplicate key error collection: sv-dunnio-customer-beta.customers index: email_1 dup key: { email: \"2@gmail.com\" }": "E11000 duplicate key error collection: sv-dunnio-customer-beta.customers index: email_1 dup key: { email: \"2@gmail.com\" }",
+	"Không tìm thấy dữ liệu.!": "Không tìm thấy dữ liệu.!",
+	"CustomerGroup validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required.": "CustomerGroup validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required.",
+	"VALIDATION_ERROR": "VALIDATION_ERROR",
+	"CustomerGroup validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required., note: Path `note` is required.": "CustomerGroup validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required., note: Path `note` is required.",
+	"Cannot read property 'id' of null": "Cannot read property 'id' of null",
+	"Not Found": "Not Found",
+	"Customer validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required.": "Customer validation failed: created_by.name: Path `created_by.name` is required., created_by.id: Path `created_by.id` is required.",
+	"$and/$or/$nor must be a nonempty array": "$and/$or/$nor must be a nonempty array",
+	"invalid input syntax for type integer: \"5e670f2b7ae02b32a477bb72\"": "invalid input syntax for type integer: \"5e670f2b7ae02b32a477bb72\"",
+	"Unauthorized": "Unauthorized",
+	"column \"type\" does not exist": "column \"type\" does not exist",
+	"NOT_FOUND!": "NOT_FOUND!",
+	"column \"m_2.created_at\" must appear in the GROUP BY clause or be used in an aggregate function": "column \"m_2.created_at\" must appear in the GROUP BY clause or be used in an aggregate function",
+	"transformed[x.key].values.sort is not a function": "transformed[x.key].values.sort is not a function"
+}
